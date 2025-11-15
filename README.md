@@ -4,7 +4,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkrqkq1025)](https://solved.ac/rhkrqkq1025/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkrqkq)](https://github.com/anuraghazra/github-readme-stats)
+- 활동
+  - GDSC KwangWoon [Server] (2023.09 ~ 2024.08)
+  - 2024 오픈소스 컨트리뷰션 아카데미 [Git활용 및 표준프레임워크 MSA] (2024.09 ~ 2024.10)
+  - UMC [BackEnd] (2024.09 ~ 2025.02)
 <!--
 **rhkrqkq/rhkrqkq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
