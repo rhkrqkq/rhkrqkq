@@ -2,12 +2,20 @@
 
 ![rhkrqkq's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkrqkq&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkrqkq1025)](https://solved.ac/rhkrqkq1025/)
 
-- 활동
-  - GDSC KwangWoon [Server] (2023.09 ~ 2024.08)
+- Activities
+  - GDSC KwangWoon [Server - Spring Boot] (2023.09 ~ 2024.08)
   - 2024 오픈소스 컨트리뷰션 아카데미 [Git활용 및 표준프레임워크 MSA] (2024.09 ~ 2024.10)
-  - UMC [BackEnd] (2024.09 ~ 2025.02)
+  - UMC [Server - Spring Boot] (2024.09 ~ 2025.02)
+
+- Skills
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+
 <!--
 **rhkrqkq/rhkrqkq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
