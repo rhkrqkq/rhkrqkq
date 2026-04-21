@@ -19,6 +19,9 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
+- Certifications
+  - SQLD
+  - 리눅스마스터 2급
 <!--
 **rhkrqkq/rhkrqkq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
