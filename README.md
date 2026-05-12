@@ -8,6 +8,7 @@
   - GDSC KwangWoon [Server - Spring Boot] (2023.09 ~ 2024.08)
   - 2024 오픈소스 컨트리뷰션 아카데미 [체험형 - Git활용 및 표준프레임워크 MSA] (2024.09 ~ 2024.10)
   - UMC [Server - Spring Boot] (2024.09 ~ 2025.02)
+  - 신한DS 금융SW 아카데미 (2026.05 ~ )
 
 - Skills
   <br><br>
