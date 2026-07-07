@@ -5,13 +5,18 @@
 - ⛪️ Education
   - 한경국립대학교 소프트웨어융합전공 (2021.03 ~ 2023.02)
   - 광운대학교 데이터사이언스 전공 (2023.03 ~ 2026.02 졸업)
+ 
 - 💻 Activities
   - GDSC KwangWoon [Server - Spring Boot] (2023.09 ~ 2024.08)
   - 2024 오픈소스 컨트리뷰션 아카데미 [체험형 - Git활용 및 표준프레임워크 MSA] (2024.09 ~ 2024.10)
   - UMC [Server - Spring Boot] (2024.09 ~ 2025.02)
   - 신한DS 금융SW 아카데미 7기 (2026.05 ~ )
 
-- Skills
+- 🫡 Projects
+  - newsync : AI 기반 뉴스 요약 및 TTS 제공 서비스 (BackEnd)
+  - 찾술 : 술집 예약 및 분실물 확인 서비스 (BackEnd)
+
+- ⚒️ Skills
   <br><br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
