@@ -4,7 +4,7 @@
 
 - ⛪️ Education
   - 한경국립대학교 소프트웨어융합전공 (2021.03 ~ 2023.02)
-  - 광운대학교 데이터사이언스 전공 (2023.03 ~ 2026.02 졸업)
+  - 광운대학교 데이터사이언스전공 (2023.03 ~ 2026.02 졸업)
  
 - 💻 Activities
   - GDSC KwangWoon [Server - Spring Boot] (2023.09 ~ 2024.08)
@@ -13,8 +13,9 @@
   - 신한DS 금융SW 아카데미 7기 (2026.05 ~ )
 
 - 🫡 Projects
+  - petnow : 반려동물 위탁 서비스 (BackEnd - 예약 도메인) 
   - newsync : AI 기반 뉴스 요약 및 TTS 제공 서비스 (BackEnd)
-  - 찾술 : 술집 예약 및 분실물 확인 서비스 (BackEnd)
+  - 찾술 : 주점 예약 및 분실물 확인 서비스 (BackEnd)
 
 - ⚒️ Skills
   <br><br>
@@ -24,7 +25,10 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=MariaDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white" />
+
 
 - Certifications
   - SQLD
