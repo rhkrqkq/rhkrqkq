@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![rhkrqkq's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkrqkq&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rhkrqkq&show_icons=true&theme=radical)
 
 - ⛪️ Education
   - 한경국립대학교 소프트웨어융합전공 (2021.03 ~ 2023.02)
