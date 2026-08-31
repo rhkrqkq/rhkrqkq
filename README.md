@@ -13,7 +13,7 @@
   - 신한DS 금융SW 아카데미 7기 (2026.05 ~ )
 
 - 🫡 Projects
-  - petnow : 반려동물 위탁 서비스 (BackEnd - 예약 도메인) 
+  - petnow : 반려동물 위탁 서비스 (BackEnd) 
   - newsync : AI 기반 뉴스 요약 및 TTS 제공 서비스 (BackEnd)
   - 찾술 : 주점 예약 및 분실물 확인 서비스 (BackEnd)
 
